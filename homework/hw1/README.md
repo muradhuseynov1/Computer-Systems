@@ -11,3 +11,5 @@ Solar panels nowadays
 AI solutions nowadays
 Are the robots taking away our jobs?
 Covid & its effects by my opinion
+## URL
+https://people.inf.elte.hu/rx15mw/hw.html
