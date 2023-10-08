@@ -1,0 +1,1 @@
+Create a PowerShell script that retrieves the status of a specific Windows service (e.g., "wuauserv" which is the Windows Update service) on the local machine. If the service is not running, start it.
