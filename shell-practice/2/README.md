@@ -1,0 +1,1 @@
+Write a script 4.sh that determinates if the given number is a prime. The number is a parameter. Write out error message is there are not exactly one parameter.
