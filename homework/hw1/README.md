@@ -3,13 +3,13 @@ Choose one topic from the below-listed ones and create an HTML document. After c
 
 Your HTML document must contain at least one link, one table and a picture!
 
-Online education - I like it
-Toyota Prius Plug-In the inimitable
-N, ON, ION, TION, ATION, NATION, INATION, ... VACCINATION
-Let us code on Raspberry Pi
-Solar panels nowadays
-AI solutions nowadays
-Are the robots taking away our jobs?
-Covid & its effects by my opinion
+1. Online education - I like it
+2. Toyota Prius Plug-In the inimitable
+3. N, ON, ION, TION, ATION, NATION, INATION, ... VACCINATION
+4. Let us code on Raspberry Pi
+5. Solar panels nowadays
+6. AI solutions nowadays
+7. Are the robots taking away our jobs?
+8. Covid & its effects by my opinion
 ## URL
 https://people.inf.elte.hu/rx15mw/hw.html
