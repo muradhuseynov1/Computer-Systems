@@ -1,0 +1,3 @@
+Create a Powershell script, which generates a series of numbers. The first number should be the first argument (given by the user) The second argument will be the count of the elements in the series. You can calculate the second element by giving 1 to the first element. The third element can be calculated by giving two to the second element. The fourth element can be calculated from the third element giving 3 to it. E.g. ./series.ps1 1 5
+
+(the result: 1,2,4,7,11)

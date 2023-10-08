@@ -1,0 +1,1 @@
+Create a powershell script which gets a filename as a parameter. In the file there are sentences in each line. Give back the shortest line!
